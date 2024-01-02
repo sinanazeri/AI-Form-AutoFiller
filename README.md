@@ -1,11 +1,11 @@
 # AI-Form-AutoFiller
-This project automates form-filling using LLM. It processes documents, extracts necessary information, and then intelligently fills out HTML forms based on this data. We use LLAMA2 hosted by IBM Watson's language model for text analysis and a Flask web app for easy access. The system efficiently handles form fields, streamlining the form-filling process with minimal manual input.
 
 
 I hate forms, and they're everywhere—applying for a loan, a job, a visa, or funding. They waste so much time, even though the information is just sitting there (in the local storage). Our time is wasted just reading information and putting it into a form. In fact, the vast majority of government jobs involve form-filling. Workers read some information and fill out another form, and this process takes months and even years. What if we implemented AI that could read all the required information and automatically fill the forms and their fields, instantly and accurately?
 well, this project does that. 
 
-In this project, we use a simple tax form to showcase an AI form filler. We've provided a PDF with information about an imaginary person. The project reads the form fields and the AI fills them in, accordingly.
+In this project, we use a simple tax form to showcase an AI form filler. We've provided a PDF with information about an imaginary person. The project reads the form fields and the AI fills them in, accordingly. In other words, this project automates form-filling using LLM. It processes documents, extracts necessary information, and then intelligently fills out HTML forms based on this data. We use LLAMA2 hosted by IBM Watson's language model for text analysis and a Flask web app for easy access. The system efficiently handles form fields, streamlining the form-filling process with minimal manual input.
+
 
 
 ![](AI_form_fill.gif)
